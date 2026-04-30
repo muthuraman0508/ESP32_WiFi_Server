@@ -9,8 +9,8 @@
 #endif
 
 // Set these to your desired credentials.
-const char *ssid = "Zed";
-const char *password = "Wireless4U!";
+const char *ssid = "Wi-Fi-Name";
+const char *password = "Password";
 
 // 1. CHANGED: NetworkServer is now WiFiServer
 WiFiServer server(80);
